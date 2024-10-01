@@ -6,7 +6,7 @@ const App = () => {
     <div className="grid place-items-center w-full h-screen">
       <div className="container w-[350px] h-[150px] border border-blue-300 rounded-[5px] flex flex-col items-center shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)]">
         <h2 className="text-center mt-3 text-red-300 text-lg">
-          Welcome to{" "}
+          Welcome to
           <span className="text-red-500 text-lg uppercase">{click}</span>
         </h2>
         <input
